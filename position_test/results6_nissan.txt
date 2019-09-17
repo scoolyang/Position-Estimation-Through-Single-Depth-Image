@@ -1,0 +1,392 @@
+exp/test3/case6/nissan/001805rgb.png
+0   387   211   103    47    car: 100%
+1   506   207   138    78    car: 99%
+2   556   233    83    73    car: 51%
+3   615   229    24   107    car: 63%
+exp/test3/case6/nissan/001765rgb.png
+0   240   214    84    59    car: 93%
+1   269   215   294    79    car: 100%
+2   270   211   110    72    car: 55%
+3   461   214   101    39    car: 98%
+4   567   211    70    27    car: 98%
+exp/test3/case6/nissan/001824rgb.png
+0   335   216   136    56    car: 100%
+1   574   232    66    69    car: 98%
+exp/test3/case6/nissan/001843rgb.png
+0   123   215   242   103    car: 100%
+1   577   244    65    81    car: 94%
+exp/test3/case6/nissan/001761rgb.png
+0   257   215   102    59    car: 91%
+1   285   216   280    73    car: 100%
+2   463   215   101    38    car: 97%
+3   576   214    61    25    car: 98%
+exp/test3/case6/nissan/001832rgb.png
+0   272   217   173    74    car: 100%
+1   585   240    55    68    car: 97%
+exp/test3/case6/nissan/001817rgb.png
+0   362   212   123    52    car: 100%
+1   553   231    85    67    car: 98%
+2   606   246    33    69    car: 52%
+exp/test3/case6/nissan/001780rgb.png
+0   270   214    76    38    car: 98%
+1   292   210   163    74    car: 30%
+2   313   208   343   108    car: 100%
+3   556   208    83    45    car: 75%
+exp/test3/case6/nissan/001820rgb.png
+0   349   216   133    52    car: 100%
+1   560   230    81    71    car: 98%
+exp/test3/case6/nissan/001809rgb.png
+0   381   210   107    49    car: 100%
+1   526   195   116   106    car: 94%
+2   568   234    75    69    car: 58%
+exp/test3/case6/nissan/001800rgb.png
+0   386   210    93    43    car: 100%
+1   484   205   151    83    car: 100%
+2   579   216    60   107    car: 99%
+exp/test3/case6/nissan/001758rgb.png
+0   252   230    51    34    car: 25%
+1   278   214   103    60    car: 59%
+2   292   216   264    71    car: 100%
+3   464   215    99    39    car: 96%
+4   576   214    61    25    car: 99%
+5   632   231     7    66    car: 34%
+exp/test3/case6/nissan/001836rgb.png
+0   242   218   186    77    car: 100%
+1   584   244    57    74    car: 94%
+exp/test3/case6/nissan/001813rgb.png
+0   372   211   115    51    car: 100%
+1   536   220   101    67    car: 95%
+2   594   235    47    70    car: 78%
+exp/test3/case6/nissan/001769rgb.png
+0   235   215    88    59    car: 88%
+1   246   214    61    22    car: 31%
+2   270   212   109    72    car: 36%
+3   273   216   293    88    car: 100%
+4   463   214   101    40    car: 97%
+5   571   211    68    28    car: 98%
+exp/test3/case6/nissan/001771rgb.png
+0   233   223    66    48    car: 63%
+1   237   213    59    27    car: 88%
+2   254   216   113    65    car: 55%
+3   267   215   306    89    car: 100%
+4   467   214   107    41    car: 97%
+5   573   211    66    27    car: 99%
+exp/test3/case6/nissan/001815rgb.png
+0   368   212   117    51    car: 100%
+1   549   220    91    69    car: 90%
+2   598   231    42    79    car: 66%
+exp/test3/case6/nissan/001757rgb.png
+0   259   218    99    52    car: 74%
+1   292   216   259    70    car: 100%
+2   464   216    99    38    car: 96%
+3   576   214    60    25    car: 98%
+4   630   229    10    70    car: 38%
+exp/test3/case6/nissan/001833rgb.png
+0   264   216   174    77    car: 100%
+1   586   244    54    72    car: 95%
+exp/test3/case6/nissan/001842rgb.png
+0   147   216   232    98    car: 100%
+1   576   246    65    78    car: 95%
+exp/test3/case6/nissan/001834rgb.png
+0   251   217   182    78    car: 100%
+1   584   245    56    71    car: 95%
+exp/test3/case6/nissan/001791rgb.png
+0   359   213    87    39    car: 99%
+1   413   205   197    86    car: 100%
+2   495   209   138   130    car: 100%
+exp/test3/case6/nissan/001823rgb.png
+0   339   215   138    54    car: 100%
+1   402   222    17    11    person: 33%
+2   574   231    66    70    car: 98%
+exp/test3/case6/nissan/001766rgb.png
+0   239   214    84    60    car: 94%
+1   270   212   111    71    car: 42%
+2   275   217   287    84    car: 100%
+3   463   213    99    39    car: 98%
+4   571   210    68    28    car: 97%
+exp/test3/case6/nissan/001772rgb.png
+0   235   220    65    51    car: 79%
+1   238   213    59    28    car: 80%
+2   253   217   113    64    car: 24%
+3   269   214   312    91    car: 100%
+4   472   210   103    46    car: 97%
+5   575   210    66    27    car: 98%
+exp/test3/case6/nissan/001760rgb.png
+0   259   216    98    57    car: 92%
+1   289   216   276    73    car: 100%
+2   463   215   103    39    car: 97%
+3   577   214    62    24    car: 98%
+exp/test3/case6/nissan/001788rgb.png
+0   340   213    86    38    car: 99%
+1   383   206   183    81    car: 100%
+2   459   205   179   132    car: 100%
+exp/test3/case6/nissan/001774rgb.png
+0   241   214    66    27    car: 93%
+1   241   223    78    53    car: 41%
+2   267   213   340    94    car: 100%
+3   274   212   108    72    car: 46%
+4   485   212   107    37    car: 85%
+5   584   208    58    29    car: 97%
+exp/test3/case6/nissan/001816rgb.png
+0   364   212   122    51    car: 100%
+1   549   228    90    69    car: 97%
+2   601   232    39    75    car: 57%
+exp/test3/case6/nissan/001829rgb.png
+0   300   217   164    73    car: 100%
+1   581   238    58    71    car: 96%
+exp/test3/case6/nissan/001790rgb.png
+0   353   213    87    39    car: 99%
+1   413   204   191    91    car: 100%
+2   488   206   146   135    car: 100%
+exp/test3/case6/nissan/001840rgb.png
+0   174   216   231    92    car: 100%
+1   315   228    17    16    person: 24%
+2   578   245    63    77    car: 93%
+exp/test3/case6/nissan/001783rgb.png
+0   297   214    80    36    car: 98%
+1   334   208   164    82    car: 66%
+2   374   207   265   112    car: 100%
+exp/test3/case6/nissan/001841rgb.png
+0   158   216   234    94    car: 100%
+1   577   244    64    77    car: 97%
+exp/test3/case6/nissan/001793rgb.png
+0   368   212    89    40    car: 100%
+1   436   205   186    81    car: 100%
+2   515   205   120   126    car: 100%
+exp/test3/case6/nissan/001784rgb.png
+0   308   214    78    38    car: 99%
+1   337   208   174    78    car: 97%
+2   390   206   245   117    car: 100%
+exp/test3/case6/nissan/001826rgb.png
+0   327   217   141    60    car: 100%
+1   578   235    61    69    car: 99%
+exp/test3/case6/nissan/001763rgb.png
+0   251   214   114    61    car: 86%
+1   263   215    55    18    car: 22%
+2   283   219   275    81    car: 100%
+3   462   215   102    39    car: 98%
+4   574   213    63    25    car: 97%
+5   636   216     4    24    car: 21%
+exp/test3/case6/nissan/001801rgb.png
+0   386   211    95    43    car: 100%
+1   487   205   151    80    car: 100%
+2   559   195    80   118    car: 41%
+3   593   212    49   119    car: 99%
+exp/test3/case6/nissan/001781rgb.png
+0   278   214    78    36    car: 98%
+1   302   209   158    76    car: 82%
+2   326   206   321   110    car: 100%
+3   574   208    67    33    car: 65%
+exp/test3/case6/nissan/001806rgb.png
+0   386   211   103    48    car: 100%
+1   511   206   132    78    car: 96%
+2   559   212    81   110    car: 97%
+exp/test3/case6/nissan/001762rgb.png
+0   255   215   106    60    car: 87%
+1   281   215   284    76    car: 100%
+2   463   215   101    38    car: 98%
+3   574   213    63    25    car: 98%
+exp/test3/case6/nissan/001838rgb.png
+0   210   217   207    78    car: 100%
+1   581   244    59    76    car: 93%
+exp/test3/case6/nissan/001811rgb.png
+0   378   211   110    49    car: 100%
+1   529   197   114   105    car: 93%
+2   578   235    63    69    car: 67%
+exp/test3/case6/nissan/001792rgb.png
+0   362   213    90    38    car: 100%
+1   427   205   186    84    car: 100%
+2   496   208   138   128    car: 100%
+exp/test3/case6/nissan/001802rgb.png
+0   388   211    96    45    car: 100%
+1   493   205   149    82    car: 100%
+2   561   212    75   110    car: 62%
+3   598   212    44   121    car: 97%
+exp/test3/case6/nissan/001787rgb.png
+0   330   213    88    38    car: 99%
+1   375   205   183    82    car: 99%
+2   439   210   195   119    car: 100%
+exp/test3/case6/nissan/001770rgb.png
+0   233   217    93    57    car: 79%
+1   234   233    56    43    car: 20%
+2   240   214    56    25    car: 58%
+3   269   215   299    90    car: 100%
+4   270   213   109    72    car: 25%
+5   463   214   103    41    car: 95%
+6   571   211    66    28    car: 98%
+exp/test3/case6/nissan/001808rgb.png
+0   383   210   106    50    car: 100%
+1   524   196   118   104    car: 93%
+2   568   235    74    69    car: 53%
+exp/test3/case6/nissan/001773rgb.png
+0   238   220    84    55    car: 60%
+1   239   214    59    29    car: 90%
+2   267   212   330    95    car: 100%
+3   272   214   107    73    car: 36%
+4   478   209   105    42    car: 96%
+5   580   209    62    29    car: 97%
+exp/test3/case6/nissan/001799rgb.png
+0   384   211    94    42    car: 100%
+1   480   207   153    81    car: 100%
+2   572   215    66   110    car: 100%
+exp/test3/case6/nissan/001835rgb.png
+0   242   218   186    77    car: 100%
+1   584   244    57    74    car: 94%
+exp/test3/case6/nissan/001803rgb.png
+0   388   211    98    46    car: 100%
+1   496   206   148    82    car: 100%
+2   554   210    83   112    car: 65%
+3   606   212    36   122    car: 94%
+exp/test3/case6/nissan/001785rgb.png
+0   316   213    83    36    car: 98%
+1   350   207   166    76    car: 99%
+2   409   207   230   118    car: 100%
+exp/test3/case6/nissan/001810rgb.png
+0   380   210   109    50    car: 100%
+1   527   195   115   106    car: 93%
+2   576   233    67    71    car: 75%
+exp/test3/case6/nissan/001759rgb.png
+0   258   217    99    55    car: 82%
+1   288   216   273    72    car: 100%
+2   464   215   101    39    car: 97%
+3   577   213    62    25    car: 99%
+exp/test3/case6/nissan/001789rgb.png
+0   346   213    86    39    car: 99%
+1   413   205   187    91    car: 100%
+2   477   206   158   132    car: 100%
+exp/test3/case6/nissan/001778rgb.png
+0   259   214    70    32    car: 98%
+1   284   212   177    77    car: 21%
+2   303   209   335   105    car: 100%
+3   523   210   115    43    car: 89%
+exp/test3/case6/nissan/001795rgb.png
+0   376   213    91    40    car: 100%
+1   467   208   162    84    car: 100%
+2   531   211   111   114    car: 100%
+exp/test3/case6/nissan/001825rgb.png
+0   331   216   139    57    car: 100%
+1   576   235    65    67    car: 99%
+exp/test3/case6/nissan/001837rgb.png
+0   219   217   207    78    car: 100%
+1   582   244    58    77    car: 93%
+exp/test3/case6/nissan/001796rgb.png
+0   377   212    92    40    car: 100%
+1   469   209   158    82    car: 100%
+2   532   212   111   110    car: 99%
+exp/test3/case6/nissan/001812rgb.png
+0   374   211   114    50    car: 100%
+1   533   219   105    68    car: 94%
+2   582   234    61    72    car: 81%
+exp/test3/case6/nissan/001828rgb.png
+0   308   216   159    72    car: 100%
+1   581   237    59    70    car: 97%
+exp/test3/case6/nissan/001821rgb.png
+0   348   216   132    52    car: 100%
+1   565   230    76    71    car: 97%
+exp/test3/case6/nissan/001839rgb.png
+0   198   219   205    84    car: 100%
+1   578   245    62    78    car: 95%
+exp/test3/case6/nissan/001782rgb.png
+0   288   214    74    38    car: 99%
+1   317   210   142    71    car: 61%
+2   358   206   287   114    car: 100%
+3   580   207    64    37    car: 28%
+exp/test3/case6/nissan/001797rgb.png
+0   379   212    94    40    car: 100%
+1   473   207   156    83    car: 100%
+2   555   213    84   115    car: 99%
+exp/test3/case6/nissan/001786rgb.png
+0   324   213    85    39    car: 98%
+1   369   205   177    88    car: 99%
+2   424   211   214   113    car: 100%
+exp/test3/case6/nissan/001830rgb.png
+0   292   216   168    73    car: 100%
+1   583   240    56    69    car: 96%
+exp/test3/case6/nissan/001776rgb.png
+0   249   214    65    31    car: 98%
+1   252   224    69    47    car: 34%
+2   276   216   115    67    car: 28%
+3   290   212   333    99    car: 100%
+4   501   211   117    39    car: 90%
+5   607   204    35    31    car: 86%
+exp/test3/case6/nissan/001767rgb.png
+0   239   216    84    58    car: 91%
+1   271   212   108    72    car: 44%
+2   275   217   289    84    car: 100%
+3   463   213   100    39    car: 96%
+4   570   210    68    28    car: 97%
+exp/test3/case6/nissan/001794rgb.png
+0   372   211    89    42    car: 99%
+1   441   205   189    82    car: 100%
+2   526   209   111   122    car: 100%
+exp/test3/case6/nissan/001818rgb.png
+0   363   216   121    50    car: 100%
+1   556   230    82    70    car: 98%
+2   612   244    29    75    car: 23%
+exp/test3/case6/nissan/001819rgb.png
+0   349   216   134    50    car: 100%
+1   558   231    81    69    car: 98%
+exp/test3/case6/nissan/001804rgb.png
+0   388   211   100    47    car: 100%
+1   500   208   145    79    car: 99%
+2   552   232    87    75    car: 42%
+3   612   215    29   114    car: 67%
+exp/test3/case6/nissan/001779rgb.png
+0   263   214    75    38    car: 99%
+1   292   211   161    77    car: 54%
+2   314   209   331   105    car: 100%
+3   533   212   103    43    car: 82%
+exp/test3/case6/nissan/001814rgb.png
+0   370   211   116    51    car: 100%
+1   547   219    93    68    car: 89%
+2   596   236    44    71    car: 77%
+exp/test3/case6/nissan/001764rgb.png
+0   252   212   111    65    car: 88%
+1   269   215   291    78    car: 100%
+2   461   214   102    40    car: 99%
+3   568   212    67    26    car: 98%
+4   635   216     5    23    car: 27%
+exp/test3/case6/nissan/001798rgb.png
+0   382   212    95    40    car: 100%
+1   473   208   160    81    car: 100%
+2   564   216    76   110    car: 99%
+exp/test3/case6/nissan/001756rgb.png
+0   253   222    72    45    car: 24%
+1   279   215   101    59    car: 65%
+2   291   217   258    69    car: 100%
+3   462   216   100    38    car: 97%
+4   576   214    61    25    car: 98%
+5   627   242    13    58    car: 36%
+6   636   215     4    25    car: 30%
+exp/test3/case6/nissan/001827rgb.png
+0   314   211   154    74    car: 100%
+1   579   235    61    71    car: 97%
+exp/test3/case6/nissan/001831rgb.png
+0   280   217   174    72    car: 100%
+1   584   239    55    69    car: 96%
+exp/test3/case6/nissan/001768rgb.png
+0   237   216    84    57    car: 88%
+1   248   214    58    21    car: 29%
+2   257   214   107    66    car: 64%
+3   276   217   288    84    car: 100%
+4   463   213   100    40    car: 97%
+5   571   210    68    28    car: 97%
+exp/test3/case6/nissan/001777rgb.png
+0   252   214    70    30    car: 97%
+1   295   210   347   102    car: 100%
+2   511   211   122    43    car: 89%
+3   611   201    31    36    car: 50%
+exp/test3/case6/nissan/001807rgb.png
+0   384   210   106    49    car: 100%
+1   513   204   129    79    car: 95%
+2   562   212    79   107    car: 96%
+exp/test3/case6/nissan/001822rgb.png
+0   344   216   135    53    car: 100%
+1   572   232    68    70    car: 96%
+exp/test3/case6/nissan/001775rgb.png
+0   242   214    69    30    car: 97%
+1   245   222    72    52    car: 49%
+2   277   214   108    71    car: 52%
+3   279   212   340    98    car: 100%
+4   492   210   114    40    car: 96%
+5   596   207    44    31    car: 96%
